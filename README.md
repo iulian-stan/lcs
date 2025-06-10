@@ -13,7 +13,7 @@ Running the example with CMake:
 
 2. Generate the project
     ```
-    cmake .. 
+    cmake ..
     ```
 
 3. Build the project
