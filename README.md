@@ -23,7 +23,7 @@ Running the example with CMake:
 
 4. Run the generated example
     ```
-    > LCS.exe
+    > lcs.exe
     Enter first string : 321654987
     Enter second string : 123654789
     Longest Common Subsequence : 36549
