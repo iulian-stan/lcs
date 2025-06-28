@@ -7,6 +7,6 @@
  * @param b Second string
  * @return Longest common subsequence of string `a` and `b`
  */
-string getLongestCommonSubsequence(string a, string b);
+std::string getLongestCommonSubsequence(std::string a, std::string b);
 
 #endif
